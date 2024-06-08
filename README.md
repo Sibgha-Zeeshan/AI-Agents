@@ -1,5 +1,5 @@
-# Search-Algorithms-AI-
-This repository contains solutions to common problems using search algorithms, created for an Artificial Intelligence course.
+# AI-Agents
+This repository contains AI agents designed to solve real-world problems.
 
 # Vacuum-Cleaner-Problem
 Creating Intelligent Agents:
